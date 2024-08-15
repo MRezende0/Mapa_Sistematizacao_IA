@@ -1,5 +1,2 @@
 ezdxf
 shapely
-os
-pandas
-logging
